@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WidgetProperties</string>
+    <string name="but_str1">버튼 1</string>
+    <string name="but_str2">버튼 2</string>
+    <string name="text1">Text Size</string>
+    <string name="text2">Text Color</string>
+    <string name="text3">Text Typeface</string>
+    <string name="text4">Text Style</string>
+    <string name="text5">Text Single lineText Single lineText Single lineText Single lineText Single lineText Single lineText Single lineText Single line</string>
+
+</resources>
